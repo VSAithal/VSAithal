@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Vidyasagar 👋
 
-<!--
-**VSAithal/VSAithal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Senior Frontend Developer with 8+ years of experience building scalable, user-centric web applications with **React** and **TypeScript**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in **Munich**, currently working in the **energy sector**. I enjoy crafting **performant, accessible UIs**, building **design systems**, and collaborating in **agile, cross-functional teams**.
+
+
+## 🛠️ Tech
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind
+- **UI / Design Systems:** Radix UI, shadcn/ui, MUI, Storybook, Accessibility (a11y)
+- **Testing:** Playwright (E2E), Jest
+- **Tooling / CI:** Vite, Webpack, Buildkite, npm
+
+- ## 📫 Contact
+- 📧 Email: vsagaraithal@gmail.com
+- 💼 LinkedIn: [linkedin.com/vidyasagar-aithal-radhakrishna-04580893](https://www.linkedin.com/in/vidyasagar-aithal-radhakrishna-04580893/)
