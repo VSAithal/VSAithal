@@ -10,7 +10,7 @@ Based in **Munich**, currently focused on B2B energy-domain products, design sys
 - Core UI Storybook: [vsaithal-design-system.netlify.app](https://vsaithal-design-system.netlify.app)
 - Monorepo: [frontend-lab](https://github.com/VSAithal/frontend-lab)
 - Core UI Docs: [packages/core-ui/README.md](https://github.com/VSAithal/frontend-lab/blob/master/packages/core-ui/README.md)
-- 
+  
 ## Tech
 - **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind
 - **UI / Design Systems:** Radix UI, shadcn/ui, MUI, Storybook, Accessibility (a11y)
